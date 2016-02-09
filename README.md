@@ -1,3 +1,5 @@
+C++ pointers
+
 1_findingAddress - meant as an example
 
 2_simplePointerExample - meant as an example
